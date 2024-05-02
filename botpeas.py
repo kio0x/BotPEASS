@@ -169,7 +169,7 @@ def search_exploits(cve: str) -> list:
     return []
     #TODO: Find a better way to discover exploits
 
-    vulners_api_key = os.getenv('VULNERS_API_KEY')
+    vulners_api_key = os.getenv('test')
     
     if vulners_api_key:
         vulners_api = vulners.Vulners(api_key=vulners_api_key)
