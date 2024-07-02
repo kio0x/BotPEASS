@@ -24,11 +24,25 @@ DESCRIPTION_KEYWORDS:
 
 PRODUCT_KEYWORDS_I:
 - sudo
-- docker
+- containerd
 - kubernetes
 - lxc
-- podman
 - container
+- argo
+- s3 
+- wazuh
+- wordpress
+- gitlab
+- cognito
+- istio
+- terraform
+- aws
+- opensearch
+- kibana
+- knock
+- google
+- slack
+- notion
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
